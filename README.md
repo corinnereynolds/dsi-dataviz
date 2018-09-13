@@ -9,6 +9,8 @@
 
 I'm a normal paragraph text.
 
+## IM ADDING SOMETHING NEW
+
 ![I'm an image](https://cataas.com/cat)
 
 ![I can even be a gif](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
